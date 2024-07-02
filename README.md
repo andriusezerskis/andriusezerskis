@@ -1,5 +1,5 @@
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,latex,md,qt,vscode,matlab,octave,flutter,dart,&theme=dark,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,latex,md,qt,vscode,matlab,octave,flutter,dart,&theme=dark&perline=3)](https://skillicons.dev)
 <!--
 **andriusezerskis/andriusezerskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
