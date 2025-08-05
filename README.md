@@ -20,7 +20,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andriusezerskis&theme=dracula&show_icons=true&include_all_commits=true" alt="andriusezerskis's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andriusezerskis&theme=dracula&show_icons=true" alt="andriusezerskis's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriusezerskis&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
 
