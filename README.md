@@ -59,7 +59,7 @@
 #### 📫 How to reach me
 
 - 💬 Discord: **lemonbrownie**
-- 📨 andriuko6@gmail.com 
+- 📨 andriusezerskis@outlook.com 
 - 🌐 [andriusezerskis.dev](https://andriusezerskis.dev)  
 
 ---
