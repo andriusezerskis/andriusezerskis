@@ -12,7 +12,7 @@
 
 ## 🔭 About Me
 - 🔥 Passionate about **Cybersecurity** and **Software Engineering**.
-- 🌱 Currently learning **Typescript** and **React**.
+- 🌱 Currently studying for CCNA and security.
 
 ---
 
