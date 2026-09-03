@@ -11,7 +11,7 @@
 ---
 
 ## 🔭 About Me
-- 🔥 Passionate about **Full-Stack Development** and **DevOps**.
+- 🔥 Passionate about **Cybersecurity** and **Software Engineering**.
 - 🌱 Currently learning **Typescript** and **React**.
 
 ---
